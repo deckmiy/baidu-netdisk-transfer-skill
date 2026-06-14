@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baidu Netdisk Transfer"
+  short_description: "Manage Baidu Netdisk files and transfers"
+  default_prompt: "Use $baidu-netdisk-transfer to upload, download, list, search, sync, verify, share, or manage Baidu Netdisk paths."
