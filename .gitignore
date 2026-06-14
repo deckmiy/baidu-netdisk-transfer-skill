@@ -1,0 +1,29 @@
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.venv/
+venv/
+
+# Local Baidu Netdisk runtime config and credentials
+config.json
+*.token
+*.secret
+*.pem
+*.key
+.env
+.env.*
+baidu-netdisk-transfer/config.json
+baidu-netdisk-transfer/**/config.json
+
+# Logs and local test artifacts
+*.log
+live-test-logs/
+work/
+outputs/
+downloads/
+*.part
+.DS_Store
